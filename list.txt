@@ -241,9 +241,9 @@ trk.pinterest.com
 widgets.pinterest.com
 
 ads.reddit.com
-d.reddit.com
-reddit.map.fastly.net
-d.reddit.com
+
+
+
 events.redditmedia.com
 
 rereddit.com
@@ -303,3 +303,4 @@ adsdk.yandex.ru
 yandexadexchange.net
 
 ads.youtube.com
+
