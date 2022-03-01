@@ -171,7 +171,7 @@ media.fastclick.net
 freshmarketer.com
 getsentry.com
 app.getsentry.com
-global.map.fastly.net
+
 prod.pinterest.global.map.fastly.net
 widgets.pinterest.com
 google-analytics.com
