@@ -1,2 +1,5 @@
 tacticmarshannouncing.com
 hykscraft.net
+
+*.tacticmarshannouncing.com
+*.hykscraft.net
